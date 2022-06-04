@@ -1,0 +1,128 @@
+/**HEADER DO SITE */
+#container {
+    background-image: linear-gradient(to left bottom, #ff0000, #ff6100, #fe9200, #f6bb00, #ebe012);
+}
+
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+#apexlogo {
+    width: 100vw;
+    max-width: 100px;
+    min-width: 50px;
+    margin-right: 10px;
+    border-radius: 50px;
+}
+
+#list-nav {
+    margin-right: 10px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    /* gap: calc(10vw - 10px); */
+    font-size: calc(3vw - 2px);
+
+}
+
+#list-nav li {
+    padding: 5px;
+}
+
+#list-nav a{
+    cursor: pointer;
+    color: #FFFFFF;
+    font-weight: 600;
+    
+}
+
+#menu-categories ul{
+    position: absolute;
+    display: none;
+    background-color:  rgba(46, 46, 46,0.9);
+    border-right: 2px solid #ffff;
+    padding: 10px;
+    border-radius: 0 0 10px 10px;
+}
+
+/**HEADER DO SITE */
+
+#categories {
+    text-align: center;
+    font-size: 3vw;
+    color: #FFFFFF;
+}
+#categories h2{
+    background-color: #bb0000;
+    width: 50%;
+    border-radius: 40px;
+
+}
+
+
+/**MAIN DO SITE */
+#list-weapons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding-top:5px;
+    margin-top: 10px;
+}
+
+.img-weapons {
+    /* usar calc no width */
+    width: calc(50.2vw - 15px);
+    min-height: calc(14.5vw - 15px); 
+    border-radius: 10px;
+}
+
+.name-weapons {
+    font-size: 3vw;
+    font-weight: 600;
+    color: #2e2e2e;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.type-weapons{
+    position: absolute;
+    margin: 22vw 0 0 10px;
+    font-size: 3vw;
+    color: #ffffff;
+}
+
+.class-weapons{
+    position: absolute;
+    margin-left: 6px;
+    font-size: 3vw;
+    color: #fe000d;
+}
+
+article {
+    background-color: #ffffff;
+    border-radius: 10px;
+
+}
+
+
+
+/**MAIN DO SITE */
+
+/* FOOTER DO SITE */
+
+#info-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+#img-footer {
+    width: 30vw;
+}
+
+/* FOOTER DO SITE */

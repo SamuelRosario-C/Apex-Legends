@@ -1,0 +1,78 @@
+@media (max-width: 500px) {
+    #list-nav {
+        font-size: calc(4.5vw + 1px);
+    }
+
+    #categories {
+        font-size: 3.5vw;
+        display: flex;
+        justify-content: center;
+    }
+
+    #categories h2 {
+        background-color: #bb0000;
+        width: 50%;
+        border-radius: 40px;
+
+    }
+}
+
+@media (min-width: 700px) {
+    .img-weapons {
+        width: calc(33.2vw - 20px);
+    }
+
+    #categories {
+        display: flex;
+        justify-content: center;
+    }
+
+    #categories h2 {
+        background-color: #bb0000;
+        width: 50%;
+        border-radius: 40px;
+
+    }
+
+    .type-weapons{
+        font-size: 2.2vw;
+        margin: 14vw 0 0 10px;
+    }
+    .class-weapons{
+        font-size: 3vw;
+    }
+}
+
+@media (min-width: 860px) {
+    .img-weapons {
+        width: calc(25.2vw - 20px);
+    }
+
+    .name-weapons {
+        font-size: 2vw;
+    }
+
+    #list-nav {
+        font-size: calc(2vw - 2px);
+    }
+
+    #categories {
+        font-size: 1.5vw;
+        display: flex;
+        justify-content: center;
+    }
+
+    #categories h2 {
+        background-color: #bb0000;
+        width: 50%;
+        border-radius: 40px;
+
+    }
+    .type-weapons{
+        font-size: 1.7vw;
+        margin: 10.5vw 0 0 10px;
+    }
+    .class-weapons{
+        font-size: 2.5vw;
+    }
+}
