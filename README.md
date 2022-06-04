@@ -9,7 +9,7 @@
   
   ![Screenshot_3](https://user-images.githubusercontent.com/93554726/170710424-96793798-4d1e-4901-9f93-395222e22540.png)
 
-  
+   https://willissz.github.io/Apex-Legends/
 </div>
 <div align="start">
   ⭐ Detalhes Extras: </br>
@@ -18,10 +18,10 @@
 
 <div align="start">
   📰 Atualizações </br>
-  - Adicionado todas as Armas do Apex
-  - Animações de butões quase terminada
-  - Adicionado um Rank de armas
-  - Adicionado os tipos das armas
+  - Adicionado todas as Armas do Apex</br>
+  - Animações de butões quase terminada</br>
+  - Adicionado um Rank de armas</br>
+  - Adicionado os tipos das armas</br>
 </div>
   
 <div style="display: inline_block"><br>
